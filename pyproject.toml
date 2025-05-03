@@ -19,3 +19,4 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
 ]
+urls = {Homepage = "https://github.com/Extocraftor/Ozhabeme"}
