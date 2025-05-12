@@ -25,3 +25,4 @@ def create_sequence():
 # Fonksiyonu çağır ve sonucu yazdır
 arr = create_sequence()
 print(arr)
+
